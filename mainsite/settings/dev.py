@@ -4,10 +4,10 @@ from .base import *
 DEBUG = True
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '!up^c(dk5f_-hg-mp%6jfg)%1$olu9!nzd-$nu!&+a&r#w6lzd'
+SECRET_KEY = '4ce7ef5164cf88478e4cf06b798d3b61dc5af1e8'
 
 # SECURITY WARNING: define the correct hosts in production!
-ALLOWED_HOSTS = ['koalakissfoxymayfire2.pythonanywhere.com' , '127.0.0.1','localhost'] 
+ALLOWED_HOSTS = ['koalakissfire.pythonanywhere.com' , '127.0.0.1','localhost'] 
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
