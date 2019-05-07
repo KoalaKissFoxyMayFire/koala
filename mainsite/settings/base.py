@@ -155,8 +155,8 @@ GOOGLE_MAP_API_KEY = 'AIzaSyD31CT9P9KxvNUJOwDq2kcFEIG8ADgaFgw'
 
 # Wagtail settings
 SECRET_KEY="c31f53a4f5ef55c0bba3c4355e3aa786a1d1f7c4"
-WAGTAIL_SITE_NAME = "koalakissfoxymayfire.pythonanywhere.com"
+WAGTAIL_SITE_NAME = "koalakissfoxymayfire2.pythonanywhere.com"
 
 # Base URL to use when referring to full URLs within the Wagtail admin backend -
 # e.g. in notification emails. Don't include '/admin' or a trailing slash
-BASE_URL = 'koalakissfoxymayfire.pythonanywhere.com'
+BASE_URL = 'koalakissfoxymayfire2.pythonanywhere.com'
